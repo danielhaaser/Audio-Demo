@@ -4,10 +4,12 @@
 <dict>
 	<key>filenames</key>
 	<dict>
-		<key>audio/205012__thedapperdan__wheezing.wav</key>
-		<string>audio/205012__thedapperdan__wheezing.caf</string>
-		<key>audio/26908__thedapperdan__piano-effects.wav</key>
-		<string>audio/26908__thedapperdan__piano-effects.caf</string>
+		<key>audio/pianoEffects.wav</key>
+		<string>audio/pianoEffects.caf</string>
+		<key>audio/sadPartyBlower.wav</key>
+		<string>audio/sadPartyBlower.caf</string>
+		<key>audio/wheezing.wav</key>
+		<string>audio/wheezing.caf</string>
 	</dict>
 	<key>metadata</key>
 	<dict>
