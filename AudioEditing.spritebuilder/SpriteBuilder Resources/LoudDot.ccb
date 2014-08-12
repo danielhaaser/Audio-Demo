@@ -423,9 +423,9 @@
 									<integer>6</integer>
 									<key>value</key>
 									<array>
-										<real>0.072902902960777283</real>
-										<real>0.20103143155574799</real>
-										<real>0.28066116571426392</real>
+										<real>0.55546551942825317</real>
+										<real>0.22733697295188904</real>
+										<real>0.49450358748435974</real>
 										<real>1</real>
 									</array>
 								</dict>
@@ -529,9 +529,9 @@
 						<string>Color3</string>
 						<key>value</key>
 						<array>
-							<real>0.072902902960777283</real>
-							<real>0.20103143155574799</real>
-							<real>0.28066116571426392</real>
+							<real>0.20999999344348907</real>
+							<real>0.64999997615814209</real>
+							<real>0.87000000476837158</real>
 							<real>1</real>
 						</array>
 					</dict>
@@ -764,7 +764,7 @@
 			<key>offset</key>
 			<real>0.0</real>
 			<key>position</key>
-			<real>2</real>
+			<real>0.43333333730697632</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
@@ -819,7 +819,7 @@
 			<key>offset</key>
 			<real>0.0</real>
 			<key>position</key>
-			<real>1.7999999523162842</real>
+			<real>5</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
@@ -831,7 +831,26 @@
 				<key>isExpanded</key>
 				<false/>
 				<key>keyframes</key>
-				<array/>
+				<array>
+					<dict>
+						<key>easing</key>
+						<dict>
+							<key>type</key>
+							<integer>0</integer>
+						</dict>
+						<key>time</key>
+						<real>0.033333335071802139</real>
+						<key>type</key>
+						<integer>11</integer>
+						<key>value</key>
+						<array>
+							<string>audio/wheezing.wav</string>
+							<real>1</real>
+							<real>0.0</real>
+							<real>1</real>
+						</array>
+					</dict>
+				</array>
 				<key>type</key>
 				<integer>11</integer>
 			</dict>
